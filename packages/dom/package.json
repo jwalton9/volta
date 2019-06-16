@@ -13,6 +13,6 @@
     "build": "rollup -c"
   },
   "peerDependencies": {
-    "@volta/core": "0.0.1"
+    "@volta/core": "^0.0.1"
   }
 }
